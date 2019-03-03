@@ -1,6 +1,10 @@
-imgg {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+#para1 {
+  text-align: left;
+  color: black;
+}
+ol #menu li  {
+  display:inline;
+}
+#li {
+float:left;
 }
