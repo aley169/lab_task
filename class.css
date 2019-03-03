@@ -8,3 +8,8 @@ ol #menu li  {
 #li {
 float:left;
 }
+
+#mark {
+  background-color: black;
+  color: white;
+}
